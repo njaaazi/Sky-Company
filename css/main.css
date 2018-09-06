@@ -195,6 +195,10 @@ p.lato-normal.size14.text-center.copyright {
 #myCarousel.carousel .item img {
     width: 100%; /*img width*/
 }
+
+div#myCarousel {
+    margin-bottom: 0;
+}
 /*________________________________________________________________Latest news _____________________________________________________*/
 .latest-news h1{
 	margin-bottom: 75px;
