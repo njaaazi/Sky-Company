@@ -1,2 +1,2 @@
-# p1.github.io
-Front-end project using bootstrap
+# SkyApp Front-end website
+Front-end project using bootstrap and sass
