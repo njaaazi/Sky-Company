@@ -361,8 +361,15 @@ background-color: #fff;
   background-repeat: no-repeat;
   height: 100%;
   color: #fff;
-
+  opacity: 0.8;
 }
+
+.blackCover {
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+}
+
 /*________________________________________________________________About Us _____________________________________________________*/
 
 
@@ -378,10 +385,10 @@ background-color: #fff;
 }
 
 .parallax .bg__foo, .parallax .bg__bazz {
-  height: 40vh;
+    height: 30vh;
 }
 .parallax .bg__foo {
-  background-image: url(../img/imac-605421_1280.jpg);
+  background-image: url(../img/parallax-img.jpg);
   background-repeat: no-repeat;
  
 }
@@ -423,12 +430,12 @@ article section.parallax {
 
 h1.parallaxtext {
     position: absolute;
-    bottom: 65%;
-    /* left: 50%; */
+    bottom: 70%;
     color: #fff;
-    width: 100%;
-    display: flex;
-    justify-content: center;
+    /*width: 100%;*/
+   /*display: flex;*/
+   /*justify-content: center;*/
+   left: 10%;
 }
 
 h2.noparallaxtext {
