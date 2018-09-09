@@ -1,2 +1,2 @@
 # Simple Front-end website
-Front-end project using bootstrap.
+Front-end project using bootstrap 3.
