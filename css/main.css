@@ -103,6 +103,11 @@ a.navbar-brand {
 button.btn.btn-default.search {
     border: none;
 }
+
+a.navbar-brand {
+  margin-top: 10px;
+}
+
 /*________________________________________________________________SOCIAL ICONS DIV_____________________________________________________*/
 .social-icons > li {
     display: inline-block;
@@ -392,7 +397,21 @@ background-color: #fff;
   background-repeat: no-repeat;
  
 }
-
+.parallax .bg__gallery {
+  height: 30vh;
+  background-image: url(../img/parallax-gallery.jpg);
+  background-repeat: no-repeat;
+}
+.parallax .bg__news {
+  height: 30vh;
+  background-image: url(../img/parallax-news.jpg);
+  background-repeat: no-repeat;
+}
+.parallax .bg__contact {
+  height: 30vh;
+  background-image: url(../img/parallax-contact.jpg);
+  background-repeat: no-repeat;
+}
 
 /*.parallax .capture {
   float: right;
